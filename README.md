@@ -34,6 +34,7 @@
 ## Dashboard Preview  
 **Product Data Table**    
 <img width="282" height="487" alt="image" src="https://github.com/user-attachments/assets/da259490-56d9-42c1-bb60-a1fef79b1597" />   
+ 
  **Pivot Table** 
 <img width="130" height="463" alt="image" src="https://github.com/user-attachments/assets/c439ee33-4794-4187-bc27-7d3417f02342" />   
   
