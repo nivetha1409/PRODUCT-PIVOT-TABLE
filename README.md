@@ -24,9 +24,9 @@
 - Identify high-performing products.  
 **4. Category-wise Performance**  
 - Analyze sales and ratings for each category.  
-- Compare product performance within categories. 
-**Learning Outcomes**  
-**Through this project, I learned:**  
+- Compare product performance within categories.  
+**Learning Outcomes**   
+**Through this project, I learned:**   
 - Creating interactive Excel dashboards.  
 - Using Pivot Tables for data summarization.     
 - Applying slicers for dynamic filtering.   
