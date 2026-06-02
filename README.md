@@ -32,7 +32,7 @@
 - Applying slicers for dynamic filtering.   
 - Presenting business data visually.  
 ## Dashboard Preview  
-**Product Data Table**    
+**Product Pivot Table**    
 <img width="282" height="487" alt="image" src="https://github.com/user-attachments/assets/da259490-56d9-42c1-bb60-a1fef79b1597" />   
  
  **Pivot Table** 
