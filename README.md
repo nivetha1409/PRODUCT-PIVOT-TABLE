@@ -28,14 +28,14 @@
 **Dashboard Preview**  
 **Product Data Table**  
 <img width="282" height="487" alt="image" src="https://github.com/user-attachments/assets/da259490-56d9-42c1-bb60-a1fef79b1597" />  
-**Pivot Table**  
+ **Pivot Table**   
 <img width="130" height="463" alt="image" src="https://github.com/user-attachments/assets/c439ee33-4794-4187-bc27-7d3417f02342" />  
-**Output**  
+ **Output**   
 <img width="843" height="156" alt="image" src="https://github.com/user-attachments/assets/75a3dca7-ea08-442b-84be-a203e7c6b50b" />  
-**Learning Outcomes**  
+**Learning Outcomes** 
 **Through this project, I learned:**  
 - Creating interactive Excel dashboards.  
-- Using Pivot Tables for data summarization.    
-- Applying slicers for dynamic filtering.  
-- Presenting business data visually.  
+- Using Pivot Tables for data summarization.     
+- Applying slicers for dynamic filtering.   
+- Presenting business data visually.   
 
