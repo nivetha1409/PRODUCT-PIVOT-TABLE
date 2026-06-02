@@ -19,10 +19,10 @@
 ### 2. Sales Analysis 
 - View total sales by year.  
 - Compare sales across categories.  
-**3. Rating Analysis**  
+### 3. Rating Analysis  
 - Monitor product ratings.  
 - Identify high-performing products.  
-**4. Category-wise Performance**  
+### 4. Category-wise Performance
 - Analyze sales and ratings for each category.  
 - Compare product performance within categories.  
 ## Learning Outcomes   
