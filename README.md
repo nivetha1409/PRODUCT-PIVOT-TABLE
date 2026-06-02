@@ -5,25 +5,25 @@ The dashboard helps users analyze sales performance across different years, cate
 Analyze sales data efficiently.  
 Compare sales and ratings across product categories.  
 Filter data dynamically using slicers.  
-**Tools Used**
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Data Formatting
-Conditional Formatting
-**Dataset Information**
-The dataset contains the following fields:
-**Column             	Description**
+**Tools Used**  
+Microsoft Excel  
+Pivot Tables  
+Pivot Charts    
+Slicers  
+Data Formatting  
+Conditional Formatting  
+**Dataset Information**  
+The dataset contains the following fields:  
+**Column               	Description**  
 YEAR	        -       Sales year
 CATEGORY	    -       Product category
 PRODUCT	      -       Product name
 SALES	        -       Total sales amount
 RATING	      -       Product rating percentage
-**Dashboard Features**
-**1. Interactive Product Slicer**
-Filter dashboard data by product.
-Instantly update Pivot Table results.
+**Dashboard Features**  
+**1. Interactive Product Slicer**  
+Filter dashboard data by product.  
+Instantly update Pivot Table results.  
 **2. Sales Analysis**
 View total sales by year.
 Compare sales across categories.
