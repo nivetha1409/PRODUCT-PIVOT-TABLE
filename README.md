@@ -14,7 +14,7 @@ Data Formatting
 Conditional Formatting  
 **Dataset Information**  
 The dataset contains the following fields:  
-**Column               	Description**    
+**Column                     	Description**    
 YEAR	        -       Sales year  
 CATEGORY	    -       Product category  
 PRODUCT	      -       Product name  
