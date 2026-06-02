@@ -1,10 +1,10 @@
 **Project Overview**                                                                         
-This project is an Interactive Product Pivot Table in Microsoft Excel created using Pivot Tables, Slicers, and Data Analysis techniques.
-The dashboard helps users analyze sales performance across different years, categories, and products.
-**Objectives**
-Analyze sales data efficiently.
-Compare sales and ratings across product categories.
-Filter data dynamically using slicers.
+This project is an Interactive Product Pivot Table in Microsoft Excel created using Pivot Tables, Slicers, and Data Analysis techniques.  
+The dashboard helps users analyze sales performance across different years, categories, and products.  
+**Objectives**  
+Analyze sales data efficiently.  
+Compare sales and ratings across product categories.  
+Filter data dynamically using slicers.  
 **Tools Used**
 Microsoft Excel
 Pivot Tables
