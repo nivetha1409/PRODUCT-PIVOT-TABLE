@@ -15,11 +15,11 @@ Conditional Formatting
 **Dataset Information**  
 The dataset contains the following fields:  
 **Column                     	Description**    
-YEAR	        -       Sales year  
-CATEGORY	    -       Product category  
-PRODUCT	      -       Product name  
-SALES	        -       Total sales amount  
-RATING	      -       Product rating percentage  
+YEAR	                -       Sales year  
+CATEGORY	            -       Product category  
+PRODUCT	              -       Product name  
+SALES	                -       Total sales amount  
+RATING	              -       Product rating percentage  
 **Dashboard Features**  
 **1. Interactive Product Slicer**  
 Filter dashboard data by product.  
