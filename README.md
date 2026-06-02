@@ -13,10 +13,10 @@
 - Data Formatting  
 - Conditional Formatting    
 ## Dashboard Features   
-**1. Interactive Product Slicer**    
+  **1. Interactive Product Slicer**    
 - Filter dashboard data by product.    
 - Instantly update Pivot Table results.    
-   **2. Sales Analysis**  
+**2. Sales Analysis**  
 - View total sales by year.  
 - Compare sales across categories.  
 **3. Rating Analysis**  
